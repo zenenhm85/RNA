@@ -1,0 +1,33 @@
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Properties.Resources.resources
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\ResGen.read.1.tlog
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\ResGen.write.1.tlog
+D:\TESIS Zenen\Herramientas\RNA\RNA\bin\Debug\RNA.exe.config
+D:\TESIS Zenen\Herramientas\RNA\RNA\bin\Debug\RNA.exe
+D:\TESIS Zenen\Herramientas\RNA\RNA\bin\Debug\RNA.pdb
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.exe
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.pdb
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Principal.resources
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Plantilla.resources
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Rna.resources
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Graphics.resources
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Model.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\bin\Debug\RNA.exe.config
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.exe
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.pdb
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Graphics.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Model.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Principal.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Plantilla.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Properties.Resources.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Rna.resources
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\ResGen.read.1.tlog
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\obj\x86\Debug\ResGen.write.1.tlog
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\bin\Debug\RNA.exe
+E:\ZENEN\TESIS\Herramientas\RNA\RNA\bin\Debug\RNA.pdb
+D:\TESIS Zenen\Herramientas\RNA\RNA\obj\x86\Debug\RNA.Setup_Constraints.resources
